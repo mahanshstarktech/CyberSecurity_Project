@@ -1,0 +1,4 @@
+#!/bin/bash
+# Core Authentication Gateway Daemon
+echo "Service verified and intact"
+exit 0

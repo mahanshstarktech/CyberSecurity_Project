@@ -1,0 +1,38 @@
+{
+  "name": "AegisFIM — File & Rootkit Integrity Monitor",
+  "short_name": "AegisFIM",
+  "description": "Enterprise Apple-grade File Integrity Monitoring & Exp 5 Rootkit Detection System with Cryptographic Merkle Hash Chaining",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#000000",
+  "theme_color": "#0A0A0C",
+  "categories": ["security", "utilities", "developer"],
+  "icons": [
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
