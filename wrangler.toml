@@ -1,3 +1,4 @@
 name = "aegisfim-security"
 compatibility_date = "2024-09-23"
 pages_build_output_dir = "frontend/dist"
+

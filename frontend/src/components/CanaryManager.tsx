@@ -129,3 +129,4 @@ export const CanaryManager: React.FC<CanaryManagerProps> = ({
     </div>
   );
 };
+

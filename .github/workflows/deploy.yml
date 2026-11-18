@@ -79,3 +79,4 @@ jobs:
           command: pages deploy frontend/dist --project-name=aegisfim
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+

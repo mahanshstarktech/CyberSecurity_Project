@@ -148,3 +148,4 @@ export const DynamicIsland: React.FC<DynamicIslandProps> = ({ activeEvent, onDis
     </div>
   );
 };
+

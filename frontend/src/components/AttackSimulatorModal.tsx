@@ -187,3 +187,4 @@ export const AttackSimulatorModal: React.FC<AttackSimulatorModalProps> = ({
     </div>
   );
 };
+

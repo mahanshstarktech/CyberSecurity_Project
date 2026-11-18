@@ -144,3 +144,4 @@ class AttackSimulator:
 
         with open(os.path.join(self.monitored_dir, "secure_vault", "financial_records.dat"), "w") as f:
             f.write("Q1_PROVENUE=15420000\nQ2_PROVENUE=19800000\nTAX_STATUS=COMPLIANT\n")
+

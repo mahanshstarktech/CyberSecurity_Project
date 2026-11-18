@@ -138,3 +138,4 @@ export const FileRadar: React.FC<FileRadarProps> = ({ files, onSelectFile }) => 
     </div>
   );
 };
+

@@ -115,3 +115,4 @@ export const PwaPrompt: React.FC = () => {
     </div>
   );
 };
+

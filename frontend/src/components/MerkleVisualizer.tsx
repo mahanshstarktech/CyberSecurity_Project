@@ -204,3 +204,4 @@ export const MerkleVisualizer: React.FC<MerkleVisualizerProps> = ({ blocks, onVe
     </div>
   );
 };
+

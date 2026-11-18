@@ -147,3 +147,4 @@ class MerkleAuditChain:
     def get_recent_blocks(self, limit: int = 50) -> List[Dict[str, Any]]:
         """Return the most recent blocks in reverse chronological order."""
         return list(reversed(self.chain[-limit:]))
+

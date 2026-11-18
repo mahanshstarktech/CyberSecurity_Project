@@ -185,3 +185,4 @@ export const FileDetailModal: React.FC<FileDetailModalProps> = ({ file, onClose,
     </div>
   );
 };
+

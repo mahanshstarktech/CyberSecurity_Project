@@ -175,3 +175,4 @@ export const RootkitInspector: React.FC<RootkitInspectorProps> = ({ auditResult,
     </div>
   );
 };
+

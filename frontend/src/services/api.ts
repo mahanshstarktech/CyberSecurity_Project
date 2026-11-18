@@ -196,3 +196,4 @@ export class ApiGateway {
 }
 
 export const api = new ApiGateway();
+
